@@ -1,5 +1,18 @@
 # 🚦 Accident Severity Prediction using Machine Learning
 
+### 🌐 Live Demo
+
+🚀 Try the deployed Streamlit application here:
+
+**https://narsinhakolekar-accident-severity-prediction-app2-xdqmns.streamlit.app/**
+
+---
+# 🚦 Accident Severity Prediction using Machine Learning
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=streamlit)](https://narsinhakolekar-accident-severity-prediction-app2-xdqmns.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/narsinhakolekar/Accident-Severity-Prediction)
+
+---
 ## 📌 Overview
 
 Road accidents are one of the leading causes of injuries and fatalities worldwide. 
